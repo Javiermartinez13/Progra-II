@@ -4,7 +4,7 @@ import java.util.Random;
 public class matematicas {
 
     public static double generarNumeroPi(long pasos) {
-        long puntosEnCirculo = 0;
+        long puntosEnCirculo = 0;  
 
         Random random = new Random();
 
