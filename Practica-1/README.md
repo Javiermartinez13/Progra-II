@@ -39,7 +39,4 @@ Donde `1000000` es la cantidad de puntos aleatorios generados para calcular Pi. 
 - Un mayor número de pasos proporciona una mejor aproximación de Pi, pero aumenta el tiempo de ejecución.
 - Este es un método probabilístico, por lo que el resultado puede variar ligeramente en cada ejecución.
 
-## Autor
-Proyecto desarrollado como demostración del uso del método de Montecarlo en Java.
-
 
